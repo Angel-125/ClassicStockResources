@@ -12,7 +12,7 @@ As a niche mod, it enables many things that the Community Resource Pack does but
 * **Atmosphere**: Equivalent to IntakeAtm, it is the raw catch-all resource for intakes that don't depend on Oxygen, and for any engines that also don't need Oxygen. Prospectors that work in atmosphere and in space are able to sift all other raw resources out of this once they are present at the current celestial body.
 * **Blutonium**: Raw radioactive material which is dug up from the ground.
 * **Explodium**: Equivalent of Nuclear Saltwater. Do not attempt to swim in, ingest, or in any other way handle with bare skin. It is a compound of Blutonium and Water. If and when you separate them...would you drink the Water? 
-* **GemStones**: Precious stones with all colors and internal arrangements. Their primary purpose is for funding the next great mission.
+* **Gemstones**: Precious stones with all colors and internal arrangements. Their primary purpose is for funding the next great mission.
 * **GrayWater**: Water is not actually clean as we know it by default. Drinkable, otherwise pure water nearly always must be filtered from this.
 * **Hexagen**: The Helium-alike resource. Very plentiful at stars and gas planets. It is the standard option for fusion drive propellant, and the fuel for compatible fusion reactor power sources.
 * **Hydrokerbon**: Raw material rich in hydrons and rich in kerbons. It converts with 100% efficiency into two propellants that are greater than and equal to LiquidFuel, and can be fissioned for Propellium.
