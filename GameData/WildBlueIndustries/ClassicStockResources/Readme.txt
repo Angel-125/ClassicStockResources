@@ -10,6 +10,9 @@ Copy the contents of the mod's GameData directory into your GameData folder.
 
 --RELEASE NOTES---
 
+1.2.1
+- Support for Blueshift and Kerbal Flying Saucers.
+
 1.2.0
 - Support for KSP 1.11.1
 
